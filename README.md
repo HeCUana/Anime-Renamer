@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### **4. 运行程序**
 
 ```bash
-python TMDB-Episode-Information-Fetcher_V1.1.0.20241221_Releases.py
+python Anime_Renamer V1.0.0-20250407_Releases.py
 ```
 
 ## 使用方法
