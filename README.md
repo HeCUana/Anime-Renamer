@@ -3,9 +3,9 @@
 # 动漫文件组织工具
 
 ![GitHub Logo](https://github.com/favicon.ico)
-![GitHub License](https://img.shields.io/github/license/your-username/your-repo)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/your-repo)
+![GitHub License](https://img.shields.io/github/license/HeCUana/Anime-Renamer)
+![GitHub Stars](https://img.shields.io/github/stars/HeCUana/Anime-Renamer)
+![GitHub Forks](https://img.shields.io/github/forks/HeCUana/Anime-Renamer)
 
 一个基于 Python 和 TMDB API 的动漫文件组织工具，用于自动整理和重命名动漫文件。
 
